@@ -397,19 +397,7 @@ This project showcases a strong combination of technical and business-oriented s
 
 ## Author
 
-Rushikesh
-
----
-
-## GitHub
-
-- GitHub Profile: https://github.com/
-
----
-
-## LinkedIn
-
-- LinkedIn Profile: https://www.linkedin.com/
+Siddhesh Pravin Patil
 
 ---
 
